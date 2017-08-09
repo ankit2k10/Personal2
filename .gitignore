@@ -1,0 +1,39 @@
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+build/
+*.iml
+.idea/.name
+*.DS_Store
+log/
+
+local.properties
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.gradle/
+.idea/compiler.xml
+.idea/copyright/
+.idea/dictionaries/
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/
+.idea/vcs.xml
+.idea/workspace.xml
+zookeeper/build/dependency-cache/
+zookeeper/build/resources/
+zookeeper/build/tmp/
+zookeeper/src/test/
+
+

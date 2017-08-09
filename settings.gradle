@@ -1,0 +1,4 @@
+rootProject.name = 'Personal2'
+
+include 'zookeeper'
+
